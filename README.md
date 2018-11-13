@@ -1,2 +1,1 @@
-# CardBattle-Online
-A Card Game
+# Treinamento-AngularJS
