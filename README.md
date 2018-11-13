@@ -1,1 +1,1 @@
-# Treinamento-AngularJS
+# Teste de Card Game
