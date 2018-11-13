@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <link rel="icon" href="/assets/icons/icon.png"
+        type="image/x-icon" />
+    <link rel="shortcut icon" href="/assets/icons/icon.png"
+        type="image/x-icon" />
+
+    <link type="stylesheet" href="/css/style.css" rel="stylesheet">
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        var socket = io();
+    </script>
+
+</head>
+
+<body ng-app="songSearch">
+    <ui-view></ui-view>
+    
+    
+    <script src="/js/framework/angular.min.js"></script>
+    <script src="/js/framework/angular-ui-router.min.js"></script>
+    <script src="/js/app.js"></script>
+    <script src="/js/game.js"></script>
+    <script src="/js/login.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/register.js"></script>
+    
+</body>
+
+</html>
