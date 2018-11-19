@@ -15,39 +15,3 @@
         "socket.io": "^2.1.1"
     }
 }
-
-
-/*{
-  "name": "pdf-analyzer",
-  "version": "0.0.1",
-  "description": "Analyze pdf files extracting desired information",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "bash setup-heroku.sh"
-  },
-  "keywords": [
-    "pdf"
-  ],
-  "author": "Cerezini",
-  "license": "ISC",
-  "engines": {
-    "node": "7.5.0"
-  },
-  "dependencies": {
-    "express": "^4.13.4",
-    "multer": "^1.1.0",
-    "pdf-text-extract": "^1.4.1",
-    "xml2js": "^0.4.17"
-  },
-  "devDependencies": {
-    "angular": "^1.6.4",
-    "angular-d3-word-cloud": "^0.4.0",
-    "d3": "^4.9.1",
-    "d3-cloud": "^1.2.4",
-    "jquery": "^3.2.1",
-    "materialize-css": "^0.98.2",
-    "ng-file-upload": "^12.2.13"
-  }
-}*/
